@@ -483,9 +483,9 @@
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 
   // A4MaxPro
-  #define DEFAULT_Kp 24.27
-  #define DEFAULT_Ki 2.02
-  #define DEFAULT_Kd 73.05
+  #define DEFAULT_Kp 21.61
+  #define DEFAULT_Ki 1.48
+  #define DEFAULT_Kd 78.77
 
   // Ultimaker
   // #define DEFAULT_Kp 22.2
